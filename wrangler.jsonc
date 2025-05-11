@@ -1,0 +1,11 @@
+{
+  "name": "worker-name",
+  "compatibility_date": "2025-05-10",
+  "main": "_worker.js",  // 确保路径指向正确的文件
+  "env": {
+    "production": {
+      "route": "example.com/*",
+      "zone_id": "zone_id_here"
+    }
+  }
+}
