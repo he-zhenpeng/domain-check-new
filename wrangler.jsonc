@@ -1,5 +1,5 @@
 {
-  "name": "worker-name",
+  "name": "domain-check-new",
   "compatibility_date": "2025-05-10",
   "main": "_worker.js",  // 确保路径指向正确的文件
   "env": {
